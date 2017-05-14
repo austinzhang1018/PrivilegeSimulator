@@ -1,0 +1,27 @@
+CorrespondingScenePicture.filetype
+SceneMessage
+
+|Button|
+ButtonText
+
+	|Scene|
+	SceneName
+	BaseChance
+
+	Black ChanceMultiplier
+	Hispanic ChanceMultiplier
+	Woman ChanceMultiplier
+
+	|SceneEnd|
+
+	|Scene|
+	SceneName2
+	BaseChance
+
+	Christian ChanceMultiplier
+	White ChanceMultiplier
+	Muslim ChanceMultiplier
+
+	|SceneEnd|
+
+|ButtonEnd|

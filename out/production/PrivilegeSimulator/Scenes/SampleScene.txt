@@ -1,0 +1,29 @@
+PoliceCar.jpg
+You've been pulled over by a Police Officer. He walks towards your car. You roll down the window and he says, "License and Registration Please". What do you do?
+|Button|
+Reach for glove box to get Registration
+|Scene|
+SpeedingTicket
+990
+|SceneEnd|
+|Scene|
+HesGotAGun
+10
+Female -5
+Black 50
+Asian -3
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Get out of car
+|Scene|
+ReturnToCar
+990
+|SceneEnd|
+|Scene|
+BeatenAndArrested
+0
+Black 25
+Male 10
+|SceneEnd|
+|ButtonEnd|
