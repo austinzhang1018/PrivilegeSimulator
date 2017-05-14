@@ -1,9 +1,6 @@
 import PlayerAttributes.Characteristic;
 
-import javax.imageio.ImageIO;
-import javax.swing.*;
 import java.io.*;
-import java.net.URL;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -14,8 +11,6 @@ import java.util.Scanner;
 public class SceneParser {
 
     public static Scene parseScene(String sceneName, Player player) throws IOException {
-        System.out.println(sceneName);
-
         File file = new File(SceneParser.class.getResource("/Scenes/" + sceneName + ".txt").getPath());
 
         return parseScene(file, player);
@@ -75,7 +70,7 @@ public class SceneParser {
     }
 
     private static String getSceneName(File scene) {
-        return scene.toString().substring(scene.toString().lastIndexOf("/") + 1);
+        return scene.toString().substring(scene.toString().lastIndexOf("/") + 1, scene.toString().lastIndexOf("."));
     }
 
     private static boolean hasCharacteristic(String characteristic, Player player) {

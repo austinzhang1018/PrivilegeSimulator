@@ -11,6 +11,7 @@ public class GUI implements ActionListener {
     private Scene currentScene;
     private Scene nextScene;
     private Player player;
+    private boolean lastScene;
 
     public static void main(String[] args) throws IOException {
         GUI gui = new GUI(null, null);
@@ -18,6 +19,7 @@ public class GUI implements ActionListener {
 
     public GUI(Player player, String startingSceneName) throws IOException {
         this.player = player;
+        this.lastScene = false;
 
         //make a window
         frame = new JFrame();
@@ -46,7 +48,6 @@ public class GUI implements ActionListener {
                 String sceneName = scenePath.substring(scenePath.lastIndexOf("/") + 1, scenePath.lastIndexOf("."));
                 if (startingSceneName.toLowerCase().equals(sceneName.toLowerCase())) {
                     currentScene = SceneParser.parseScene(sceneName, player);
-                    System.out.println(currentScene.getMessage());
                     break;
                 }
             }
@@ -107,10 +108,19 @@ public class GUI implements ActionListener {
         for (Button button : currentScene.getButtons()) {
             if (e.getActionCommand().equals(button.getButtonText())) {
                 //we now know which button was pressed
-                try {
-                    nextScene = SceneParser.parseScene(button.getNextSceneName(), player);
-                } catch (IOException e1) {
-                    e1.printStackTrace();
+
+                //END STORY
+                if (button.getNextSceneName().toLowerCase().equals("EndScene".toLowerCase())) {
+                    frame.dispose();
+                    setLastScene(true);
+                    break;
+                }
+                else {
+                    try {
+                        nextScene = SceneParser.parseScene(button.getNextSceneName(), player);
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+                    }
                 }
             }
         }
@@ -119,6 +129,14 @@ public class GUI implements ActionListener {
             JOptionPane.showMessageDialog(frame, "<html>" + currentScene.infoMessage + "</html>");
         }
 
+    }
+
+    private void setLastScene(boolean b) {
+        lastScene = b;
+    }
+
+    public boolean isLastScene() {
+        return lastScene;
     }
 
     public boolean nextSceneChosen() {
