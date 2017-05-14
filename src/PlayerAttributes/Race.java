@@ -4,5 +4,5 @@ package PlayerAttributes;
  * Created by austinzhang on 5/13/17.
  */
 public enum Race {
-    BLACK, WHITE, HISPANIC, ASIAN
+    BLACK, WHITE, HISPANIC, ASIAN, MIDDLE_EASTERN
 }

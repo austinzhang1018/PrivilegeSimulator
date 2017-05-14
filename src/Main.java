@@ -13,6 +13,8 @@ public class Main {
 
         Player player = startScreen.getPlayer();
 
+        //System.out.println(player.toString());
+
         GUI gui = new GUI(player, "SampleScene");
 
         while (true) {
