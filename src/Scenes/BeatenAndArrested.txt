@@ -1,0 +1,9 @@
+PoliceCar.jpg
+The cop feels threatened and pulls out his gun. You respond by walking towards him showing him that your hands are empty. The officer feels threatened by this action and accidentally discharges his gun. You lay on the ground bleeding out.
+|Button|
+Epilogue
+|Scene|
+EndScene
+1
+|SceneEnd|
+|ButtonEnd|

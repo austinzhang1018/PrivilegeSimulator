@@ -1,9 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;  //for ActionListener, ActionEvent
-import java.io.File;
 import java.io.IOException;
-import java.net.URI;
-import java.net.URL;
 import javax.swing.*;  //for JFrame, BoxLayout, JLabel, JTextField, JButton
 
 public class GUI implements ActionListener {
@@ -33,25 +30,7 @@ public class GUI implements ActionListener {
         frame.getContentPane().setPreferredSize(new Dimension(600, 600));
         frame.setLocationRelativeTo(null);
 
-
-        URL url = Main.class.getResource("/Scenes");
-        File file = new File(url.getPath());
-        File[] scenes = file.listFiles();
-
-        if (scenes == null) {
-            throw new RuntimeException("Scenes is null for some reason. File structure probably messed up or there's no scenes");
-        }
-
-        if (scenes.length != 0) {
-            for (File scene : scenes) {
-                String scenePath = scene.toString();
-                String sceneName = scenePath.substring(scenePath.lastIndexOf("/") + 1, scenePath.lastIndexOf("."));
-                if (startingSceneName.toLowerCase().equals(sceneName.toLowerCase())) {
-                    currentScene = SceneParser.parseScene(sceneName, player);
-                    break;
-                }
-            }
-        }
+        currentScene = SceneParser.parseScene(startingSceneName, player);
 
         update();
 

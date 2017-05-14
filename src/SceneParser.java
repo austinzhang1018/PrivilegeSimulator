@@ -11,13 +11,13 @@ import java.util.Scanner;
 public class SceneParser {
 
     public static Scene parseScene(String sceneName, Player player) throws IOException {
-        File file = new File(SceneParser.class.getResource("/Scenes/" + sceneName + ".txt").getPath());
+        InputStream file = SceneParser.class.getResource("/Scenes/" + sceneName + ".txt").openStream();
 
-        return parseScene(file, player);
+        return parseScene(file, player, sceneName);
     }
 
-    private static Scene parseScene(File file, Player player) throws IOException {
-        BufferedReader reader = new BufferedReader(new FileReader(file));
+    private static Scene parseScene(InputStream file, Player player, String currentSceneName) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(file));
         String imageName = reader.readLine();
         String message = reader.readLine();
         HashSet<Button> buttons = new HashSet<Button>();
@@ -66,11 +66,7 @@ public class SceneParser {
 
             text = reader.readLine();
         }
-        return new Scene(getSceneName(file), imageName, message, buttons, infoText);
-    }
-
-    private static String getSceneName(File scene) {
-        return scene.toString().substring(scene.toString().lastIndexOf("/") + 1, scene.toString().lastIndexOf("."));
+        return new Scene(currentSceneName, imageName, message, buttons, infoText);
     }
 
     private static boolean hasCharacteristic(String characteristic, Player player) {
