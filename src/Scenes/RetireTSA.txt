@@ -1,0 +1,12 @@
+TSA.jpg
+After working for many decades, you are finally ready to retire. The first thing you do is take a vacation. You book a flight and prepare to relax. When you get to the airport though, it becomes clear you aren’t going to be enjoying retirement quite so soon. What should be a normal TSA checkpoint becomes something much more complicated, as you are asked to step aside and then later brought in for questioning. You are 100% innocent, but for some reason the TSA believes you have done something wrong.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Info|
+People of Middle Eastern descent are much more likely to be stopped at airport security checkpoints.
+|InfoEnd|

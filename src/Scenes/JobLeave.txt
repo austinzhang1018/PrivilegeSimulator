@@ -1,0 +1,15 @@
+Unemployed.jpg
+You took the risk of quitting and leaving your toxic work environment, and that really should pay off for you. However, you are now having trouble finding employment, as word has gotten out that you accused your bosses of sexual harassment. As a result, many other companies are hesitant to hire you. For now, you are unemployed and have no source of steady income.
+|Button|
+Next
+|Scene|
+RetireFine
+95
+MiddleEastern -35
+|SceneEnd|
+|Scene|
+RetireTSA
+5
+MiddleEastern 35
+|SceneEnd|
+|ButtonEnd|

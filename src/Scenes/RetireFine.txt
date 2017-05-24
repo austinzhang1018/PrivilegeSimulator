@@ -1,0 +1,9 @@
+Retirement.jpg
+After working for many decades, you are finally ready to retire. The first thing you do is take a vacation. You book a flight and prepare to relax. As your plane leaves the tarmac, you are optimistic, ready to enjoy the rest of your life.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|

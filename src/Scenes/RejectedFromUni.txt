@@ -1,0 +1,46 @@
+Blocked.png
+Unfortunately, your family does not have the money to send you to a major, 4 year college or university. Now, you have to determine whether you want to continue your education at a community college or go straight to seeking employment on a full time basis.
+|Button|
+Community College
+|Scene|
+AttendingCC
+0
+Rich 95
+UpperMiddle 90
+Middle 75
+LowerMiddle 67
+Poor 45
+White 80
+Black 75
+Hispanic 60
+Asian 95
+MiddleEastern 70
+|SceneEnd|
+|Scene|
+RejectedFromCC
+0
+Rich 5
+UpperMiddle 10
+Middle 25
+LowerMiddle 33
+Poor 55
+White 20
+Black 25
+Hispanic 40
+Asian 5
+MiddleEastern 30
+|SceneEnd|
+|ButtonEnd|
+|Button|
+No Degree
+|Scene|
+NoDegreeRich
+0
+Rich 1
+|SceneEnd|
+|Scene|
+NoDegree
+1
+Rich -1
+|SceneEnd|
+|ButtonEnd|

@@ -1,0 +1,17 @@
+BlueCollar.jpg
+You have entered the labor/service industry. You grew up in a lower socioeconomic class and didn’t receive the opportunity to further your education in college. Now, you are working in a blue collar environment and your salary is not great. Promotions and significant pay raises are hard to come by, so you will have to work very hard to try and earn a decent living. 
+|Button|
+Next
+|Scene|
+Rich
+255
+|SceneEnd|
+|Scene|
+Mid
+255
+|SceneEnd|
+|Scene|
+Poor
+255
+|SceneEnd|
+|ButtonEnd|

@@ -15,7 +15,7 @@ public class Main {
 
         //System.out.println(player.toString());
 
-        GUI gui = new GUI(player, "SampleScene");
+        GUI gui = new GUI(player, "EconomicStatusSelected");
 
         while (true) {
             while (!gui.nextSceneChosen() && !gui.isLastScene()) {

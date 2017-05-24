@@ -5,11 +5,11 @@ import java.util.HashSet;
  * Created by austinzhang on 5/13/17.
  */
 public class Scene {
-    String sceneName;
-    String imageFileName;
-    String message;
-    HashSet<Button> buttons;
-    String infoMessage;
+    private String sceneName;
+    private String imageFileName;
+    private String message;
+    private HashSet<Button> buttons;
+    private String infoMessage;
 
     public Scene(String sceneName, String imageFileName, String message, HashSet<Button> buttons, String infoMessage) {
         this.sceneName = sceneName;

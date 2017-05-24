@@ -1,0 +1,15 @@
+Promotion.jpg
+Congratulations, you worked hard after college and never got complacent. Your motivation and commitment has been recognized by your boss, as you have been promoted. This promotion comes with a significant pay raise and an improved career trajectory.
+|Button|
+Next
+|Scene|
+WorkplaceHarassed
+8
+Female 17
+|SceneEnd|
+|Scene|
+WorkplaceNoHarassment
+92
+Female -17
+|SceneEnd|
+|ButtonEnd|

@@ -1,0 +1,16 @@
+Traumatic.jpg
+You don't know what happened. The last thing you remember is being at the party last night and now you're in an unfamiliar dorm. Your head is spinning and you feel used, violated. Although you still cannot remember what happened, you develop a sinking feeling of horror as you begin to piece together what had occurred.
+|Button|
+Next
+|Scene|
+CounsellingUni
+87
+|SceneEnd|
+|Scene|
+Suicide
+13
+|SceneEnd|
+|ButtonEnd|
+|Info|
+One in four women are sexually assualted in college.
+|InfoEnd|

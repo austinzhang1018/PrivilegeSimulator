@@ -1,0 +1,56 @@
+BlueCollar.jpg
+You are now in the labor/service industry. Becuase you didn't pursue higher education, your options for employment were limited. Desperate to get any job you could, you've chosen to take a labor job in a factory. Life is difficult for now, you'll have to work hard to progress in your current job.
+|Button|
+Next
+|Scene|
+EndRichStartMid
+0
+LowerMiddle 1
+Middle 1
+UpperMiddle 1
+|SceneEnd|
+|Scene|
+EndRichStartRich
+0
+Rich 1
+|SceneEnd|
+|Scene|
+EndRichStartPoor
+0
+Poor 1
+|SceneEnd|
+|Scene|
+EndMidStartMid
+0
+LowerMiddle 35
+Middle 35
+UpperMiddle 35
+|SceneEnd|
+|Scene|
+EndMidStartRich
+0
+Rich 35
+|SceneEnd|
+|Scene|
+EndMidStartPoor
+0
+Poor 35
+|SceneEnd|
+|Scene|
+EndPoorStartMid
+0
+LowerMiddle 64
+Middle 64
+UpperMiddle 64
+|SceneEnd|
+|Scene|
+EndPoorStartRich
+0
+Rich 64
+|SceneEnd|
+|Scene|
+EndPoorStartPoor
+0
+Poor 64
+|SceneEnd|
+|ButtonEnd|

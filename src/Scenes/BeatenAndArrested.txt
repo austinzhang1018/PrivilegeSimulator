@@ -1,9 +1,12 @@
 PoliceCar.jpg
-The cop feels threatened and pulls out his gun. You respond by walking towards him showing him that your hands are empty. The officer feels threatened by this action and accidentally discharges his gun. You lay on the ground bleeding out.
+The cop feels threatened and pulls out his gun. You respond by walking towards him showing him that your hands are empty. The officer feels threatened by this action and discharges his gun. You lay on the ground bleeding out.
 |Button|
 Epilogue
 |Scene|
-EndScene
+Epilogue
 1
 |SceneEnd|
+|Info|
+Unarmed black men are 7 times more likely to be killed by police officers than unarmed white men.
+|InfoEnd|
 |ButtonEnd|

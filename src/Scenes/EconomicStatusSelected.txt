@@ -1,0 +1,33 @@
+Economics.jpg
+Not that you have selected your race and gender, we can determine what the socioeconomic status of your family will be based on those characteristics. Click Next to see your family’s annual income.
+|Button|
+Next
+|Scene|
+PoorEconomicStatus
+0
+Poor 1
+|SceneEnd|
+|Scene|
+LowerMiddleEconomicStatus
+0
+LowerMiddle 1
+|SceneEnd|
+|Scene|
+MiddleEconomicStatus
+0
+Middle 1
+|SceneEnd|
+|Scene|
+UpperMiddleEconomicStatus
+0
+UpperMiddle 1
+|SceneEnd|
+|Scene|
+RichEconomicStatus
+0
+Rich 1
+|SceneEnd|
+|ButtonEnd|
+|Info|
+The average income for Hispanic people is 30% lower than the average income for White people. The average income of Black people is just over 50% of the average income of White people.
+|InfoEnd|

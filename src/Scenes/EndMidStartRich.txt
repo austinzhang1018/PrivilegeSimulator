@@ -1,0 +1,16 @@
+Twenties.jpg
+You have finished your journey and now earn a mid level salary (25k-100k). Your family was in a higher class growing up, so to see you show downward mobility is disappointing to them. Your family believes you could have taken more advantage of your oppurtunities, but you enjoy your life and the path you took. 
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

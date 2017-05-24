@@ -1,0 +1,9 @@
+Money.jpg
+Your family income is between 25 thousand dollars a year and 50 thousand dollars a year.
+|Button|
+Next
+|Scene|
+ChoosePrimarySchool
+1
+|SceneEnd|
+|ButtonEnd|

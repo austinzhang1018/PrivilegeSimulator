@@ -1,0 +1,46 @@
+University.jpg
+You have chosen to attend a major, 4 year college or university. You took advantage of the resources given to you and have done well enough to be in a position where you can pursue your education at the highest level. This decision will require a big investment from your family, but it is one that they are happy to make as they want to see you succeed and know that going to a major college is your best chance to do that at the moment. 
+|Button|
+Next
+|Scene|
+TraumaticExperianceUni
+0
+Female 25
+Male 1
+|SceneEnd|
+|Scene|
+STEM
+35
+Asian 17
+White -8
+Black -15
+MiddleEastern -8
+Male 5
+Female -6
+Hispanic -13
+|SceneEnd|
+|Scene|
+Humanities
+10
+Asian -3
+Black 5
+White 5
+MiddleEastern 5
+Hispanic 4
+Female 3
+|SceneEnd|
+|Scene|
+Finance
+18
+Asian -3
+Black 3
+White 3
+MiddleEastern 3
+Female -1
+Hispanic 3
+|SceneEnd|
+|Scene|
+CollegeBlueCollar
+32
+|SceneEnd|
+|ButtonEnd|

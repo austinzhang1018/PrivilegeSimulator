@@ -1,0 +1,9 @@
+Blocked.png
+Unfortunately, your family is not in a position financially to send you to private school. You met all the requirements academically and could have attended if granted financial aid, but sadly that was not the case. You will now have to attend your local public school, which is not exactly known for its commitment to excellent academics...
+|Button|
+Next
+|Scene|
+ChooseCollegeFromPublic
+1
+|SceneEnd|
+|ButtonEnd|

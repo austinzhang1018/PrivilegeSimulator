@@ -1,0 +1,16 @@
+Twenties.jpg
+You have finished your journey and now earn a mid level salary (25k-100k). Your family was in this same class growing up, so you have simply just continued the trend. You did not disappoint by any standard, but you did not do anything extraordinary either.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

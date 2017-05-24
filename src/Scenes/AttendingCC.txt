@@ -1,0 +1,41 @@
+Community.jpg
+You have chosen to go to community college. This decision gives you more flexibility with employment and offers you the chance to begin working immediately, something that would have been very difficult had you attended a higher level college. How you manage this situation and allocate your time will determine your future.
+|Button|
+Next
+|Scene|
+TraumaticExperianceCC
+0
+Female 25
+Male 1
+|SceneEnd|
+|Scene|
+STEM
+8
+Asian 4
+Black -1
+Female -1
+|SceneEnd|
+|Scene|
+Humanities
+3
+Asian -1
+Female 2
+White 2
+MiddleEastern 2
+Hispanic 1
+Black 3
+|SceneEnd|
+|Scene|
+Finance
+4
+White 3
+Female -1
+MiddleEastern 1
+Black 1
+Hispanic 1
+|SceneEnd|
+|Scene|
+CollegeBlueCollar
+85
+|SceneEnd|
+|ButtonEnd|

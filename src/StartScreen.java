@@ -33,7 +33,7 @@ public class StartScreen implements ActionListener {
 
 
         JLabel text = new JLabel();
-        text.setText("<html>" + "Welcome to the Privilege Simulator. Begin by selecting your race and sex. When you're ready, click begin." + "</html>");
+        text.setText("<html>" + "Welcome to the Privilege Simulator. In this simulation, your race and sex will directly affect the outcome of your decisions and your life. Begin by selecting your race and sex. When you're ready, click begin." + "</html>");
         frame.getContentPane().add(text);
         this.raceButton = new JButton("Click to Select Race");
         this.sexButton = new JButton("Click to Select Sex");

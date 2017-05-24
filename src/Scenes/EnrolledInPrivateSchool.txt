@@ -1,0 +1,9 @@
+PrivateSchool.jpg
+Congratulations! You are now attending private school. It will be a challenge, but you are setting yourself up well for the future. Good luck.
+|Button|
+Next
+|Scene|
+ChooseCollegeFromPrivate
+1
+|SceneEnd|
+|ButtonEnd|

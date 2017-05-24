@@ -1,0 +1,15 @@
+Work.jpg
+You continue working for many years. You enjoy your job, but also look forward to the day you can finally retire.
+|Button|
+Next
+|Scene|
+RetireFine
+95
+MiddleEastern -35
+|SceneEnd|
+|Scene|
+RetireTSA
+5
+MiddleEastern 35
+|SceneEnd|
+|ButtonEnd|

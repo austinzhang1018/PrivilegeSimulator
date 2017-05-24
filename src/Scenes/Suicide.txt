@@ -1,0 +1,12 @@
+Suicide.jpg
+No matter what you do to try to shake the memory of that night, it always comes back to haunt you. You tried contacting the police to help you figure out what had happened, but similar to so many cases like yours, they were unable to help. You begin to grow detached from your friends, not knowing who you can trust. Losing interest in school, you begin to fail many of your classes. Eventually you drop out and unable to cope with your extreme depression and anxiety, you begin contemplating the unthinkable.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Info|
+Around 13% of rape victims attempt suicide.
+|InfoEnd|

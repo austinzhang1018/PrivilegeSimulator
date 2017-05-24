@@ -1,0 +1,15 @@
+Blocked.png
+Unfortunately, your family does not have the money to send you to community college.
+|Button|
+Continue without an education
+|Scene|
+NoDegree
+1
+Rich -1
+|SceneEnd|
+|Scene|
+NoDegreeRich
+0
+Rich 1
+|SceneEnd|
+|ButtonEnd|

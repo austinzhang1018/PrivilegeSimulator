@@ -1,0 +1,9 @@
+NoCollege.jpg
+For now and the foreseeable future, your highest level of education will be your high school degree. Unsure of what to do now that you have graduated high school, you decide to take a job at your parents' company. Your parents begin training you for a managerial position, hoping you'll take the reigns of the company in the future.
+|Button|
+Next
+|Scene|
+EndRichStartRich
+1
+|SceneEnd|
+|ButtonEnd|

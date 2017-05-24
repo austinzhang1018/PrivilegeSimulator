@@ -25,6 +25,9 @@ public class Player {
 
         if (this.race == Characteristic.ASIAN) {
 
+            //In most surveys and studies middle easterns are considered as white
+            //So we're giving them the same income distribution as the white race.
+
             //Christian
             religionSize[0] = insertNum;
             //Muslim
@@ -39,15 +42,15 @@ public class Player {
             religionSize[5] = insertNum;
 
             //Poor
-            wealthSize[0] = insertNum;
+            wealthSize[0] = 276;
             //Lower_Middle
-            wealthSize[1] = insertNum;
+            wealthSize[1] = 209;
             //Middle
-            wealthSize[2] = insertNum;
+            wealthSize[2] = 167;
             //Upper_Middle
-            wealthSize[3] = insertNum;
+            wealthSize[3] = 147;
             //Rich
-            wealthSize[4] = insertNum;
+            wealthSize[4] = 200;
 
         } else if (this.race == Characteristic.BLACK) {
 
@@ -65,15 +68,15 @@ public class Player {
             religionSize[5] = insertNum;
 
             //Poor
-            wealthSize[0] = insertNum;
+            wealthSize[0] = 526;
             //Lower_Middle
-            wealthSize[1] = insertNum;
+            wealthSize[1] = 271;
             //Middle
-            wealthSize[2] = insertNum;
+            wealthSize[2] = 151;
             //Upper_Middle
-            wealthSize[3] = insertNum;
+            wealthSize[3] = 82;
             //Rich
-            wealthSize[4] = insertNum;
+            wealthSize[4] = 81;
 
         } else if (this.race == Characteristic.HISPANIC) {
 
@@ -91,15 +94,15 @@ public class Player {
             religionSize[5] = insertNum;
 
             //Poor
-            wealthSize[0] = insertNum;
+            wealthSize[0] = 337;
             //Lower_Middle
-            wealthSize[1] = insertNum;
+            wealthSize[1] = 280;
             //Middle
-            wealthSize[2] = insertNum;
+            wealthSize[2] = 179;
             //Upper_Middle
-            wealthSize[3] = insertNum;
+            wealthSize[3] = 107;
             //Rich
-            wealthSize[4] = insertNum;
+            wealthSize[4] = 97;
 
         } else if (this.race == Characteristic.WHITE) {
 
@@ -117,17 +120,20 @@ public class Player {
             religionSize[5] = insertNum;
 
             //Poor
-            wealthSize[0] = insertNum;
+            wealthSize[0] = 278;
             //Lower_Middle
-            wealthSize[1] = insertNum;
+            wealthSize[1] = 229;
             //Middle
-            wealthSize[2] = insertNum;
+            wealthSize[2] = 175;
             //Upper_Middle
-            wealthSize[3] = insertNum;
+            wealthSize[3] = 121;
             //Rich
-            wealthSize[4] = insertNum;
+            wealthSize[4] = 140;
 
         } else if (this.race == Characteristic.MIDDLE_EASTERN) {
+
+            //In most surveys and studies middle easterns are considered as white
+            //So we're giving them the same income distribution as the white race.
 
             //Christian
             religionSize[0] = insertNum;
@@ -143,15 +149,15 @@ public class Player {
             religionSize[5] = insertNum;
 
             //Poor
-            wealthSize[0] = insertNum;
+            wealthSize[0] = 278;
             //Lower_Middle
-            wealthSize[1] = insertNum;
+            wealthSize[1] = 229;
             //Middle
-            wealthSize[2] = insertNum;
+            wealthSize[2] = 175;
             //Upper_Middle
-            wealthSize[3] = insertNum;
+            wealthSize[3] = 121;
             //Rich
-            wealthSize[4] = insertNum;
+            wealthSize[4] = 140;
 
         }
 

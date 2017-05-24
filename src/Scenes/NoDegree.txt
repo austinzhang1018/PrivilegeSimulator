@@ -1,0 +1,21 @@
+NoCollege.jpg
+For now and the foreseeable future, your highest level of education will be your high school degree. Now, at just 18 years old, you will have to make some real life decisions about what you want to pursue vocationally. However, understand that given your lack of higher education, your options are somewhat limited.
+|Button|
+Next
+|Scene|
+STEM
+2
+|SceneEnd|
+|Scene|
+Humanities
+3
+|SceneEnd|
+|Scene|
+Finance
+6
+|SceneEnd|
+|Scene|
+LaborServiceJob
+89
+|SceneEnd|
+|ButtonEnd|

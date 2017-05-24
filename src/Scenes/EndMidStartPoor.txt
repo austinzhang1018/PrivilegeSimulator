@@ -1,0 +1,16 @@
+Twenties.jpg
+You have finished your journey and now earn a mid level salary (25k-100k). Your family was in a lower class growing up, and they are extremely proud and happy to see you start a trend of upward economic mobility. You made the most out of the small window of opportunity you were given, and this culminated in you earning a very comfortable salary.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

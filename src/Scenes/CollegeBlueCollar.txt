@@ -1,0 +1,56 @@
+BlueCollar.jpg
+You are now in the labor/service industry. After attending college you tried finding a job in your respective major, but the job market is tough for a recent grad. After a fruitless search, you've chosen to take a job in the service industry. This decision did not please your parents, who think you simply lack motivation and drive. Life is difficult for now, you'll have to work hard to progress in your current job.
+|Button|
+Next
+|Scene|
+EndRichStartMid
+0
+LowerMiddle 1
+Middle 1
+UpperMiddle 1
+|SceneEnd|
+|Scene|
+EndRichStartRich
+0
+Rich 1
+|SceneEnd|
+|Scene|
+EndRichStartPoor
+0
+Poor 1
+|SceneEnd|
+|Scene|
+EndMidStartMid
+0
+LowerMiddle 1
+Middle 1
+UpperMiddle 1
+|SceneEnd|
+|Scene|
+EndMidStartRich
+0
+Rich 1
+|SceneEnd|
+|Scene|
+EndMidStartPoor
+0
+Poor 1
+|SceneEnd|
+|Scene|
+EndPoorStartMid
+0
+LowerMiddle 1
+Middle 1
+UpperMiddle 1
+|SceneEnd|
+|Scene|
+EndPoorStartRich
+0
+Rich 1
+|SceneEnd|
+|Scene|
+EndPoorStartPoor
+0
+Poor 1
+|SceneEnd|
+|ButtonEnd|

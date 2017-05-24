@@ -1,0 +1,56 @@
+Humanities.jpg
+The equations and calculations of math and science just never appealed as much to you. The idea of there only being one right answer just never made sense, and you always liked to think through things in your own way. Now, you will get to continue to think and act the way you want to through a career in the humanities.
+|Button|
+Next
+|Scene|
+EndRichStartMid
+0
+LowerMiddle 10
+Middle 10
+UpperMiddle 10
+|SceneEnd|
+|Scene|
+EndRichStartRich
+0
+Rich 10
+|SceneEnd|
+|Scene|
+EndRichStartPoor
+0
+Poor 10
+|SceneEnd|
+|Scene|
+EndMidStartMid
+0
+LowerMiddle 70
+Middle 70
+UpperMiddle 70
+|SceneEnd|
+|Scene|
+EndMidStartRich
+0
+Rich 70
+|SceneEnd|
+|Scene|
+EndMidStartPoor
+0
+Poor 70
+|SceneEnd|
+|Scene|
+EndPoorStartMid
+0
+LowerMiddle 20
+Middle 20
+UpperMiddle 20
+|SceneEnd|
+|Scene|
+EndPoorStartRich
+0
+Rich 20
+|SceneEnd|
+|Scene|
+EndPoorStartPoor
+0
+Poor 1
+|SceneEnd|
+|ButtonEnd|

@@ -1,0 +1,16 @@
+Hundreds.jpg
+Congratulations. After all the work and tough decisions you have ended up in a very comfortable position with your job, where you earn a six figure salary. Your family provided you with plenty of opportunity growing up, and you made sure to take advantage of it to set yourself up well. You are making plenty of money because you went out and worked for it, not just because your parents were rich.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

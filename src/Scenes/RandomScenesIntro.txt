@@ -1,0 +1,17 @@
+LifeChangingEvent.jpg
+Although you have largely settled into your life, and your social mobility probably won't change much now, your life is still far from over. Your life may not have been too eventful so far but that could change.
+|Button|
+Next
+|Scene|
+PolicePass
+60
+Black -25
+Hispanic -5
+|SceneEnd|
+|Scene|
+PulledOver
+40
+Black 25
+Hispanic 5
+|SceneEnd|
+|ButtonEnd|

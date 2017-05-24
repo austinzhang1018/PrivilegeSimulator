@@ -1,0 +1,9 @@
+PublicSchool.jpg
+You are now attending public school. You could have challenged yourself further by applying for a selective local private school, but you chose to take a more relaxed path by attending your local public school, where you will have great social experiences but may grow complacent in the classroom. Your family was not initially happy about your supposed lack of motivation, but the money you saved them should give them some comfort.
+|Button|
+Next
+|Scene|
+ChooseCollegeFromPublic
+1
+|SceneEnd|
+|ButtonEnd|

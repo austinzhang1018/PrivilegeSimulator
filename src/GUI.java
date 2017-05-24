@@ -51,7 +51,7 @@ public class GUI implements ActionListener {
         frame.getContentPane().add(new ResizableImage.ScalablePane(new ImageIcon(getClass().getResource("/Images/" + currentScene.getImageFileName())).getImage()));
 
         JLabel text = new JLabel();
-        text.setText("<html>" + currentScene.message + "</html>");
+        text.setText("<html>" + currentScene.getMessage() + "</html>");
 
         frame.getContentPane().add(text);
 
@@ -68,7 +68,7 @@ public class GUI implements ActionListener {
             frame.getContentPane().add(jButton);
         }
 
-        if (currentScene.infoMessage != null) {
+        if (currentScene.getInfoMessage() != null) {
             JButton jButton = new JButton("Info");
             jButton.addActionListener(this);
             jButton.setActionCommand("Info");
@@ -89,7 +89,7 @@ public class GUI implements ActionListener {
                 //we now know which button was pressed
 
                 //END STORY
-                if (button.getNextSceneName().toLowerCase().equals("EndScene".toLowerCase())) {
+                if (button.getNextSceneName().toLowerCase().equals("Epilogue".toLowerCase())) {
                     frame.dispose();
                     setLastScene(true);
                     break;
@@ -105,7 +105,7 @@ public class GUI implements ActionListener {
         }
 
         if (e.getActionCommand().equals("Info")) {
-            JOptionPane.showMessageDialog(frame, "<html>" + currentScene.infoMessage + "</html>");
+            JOptionPane.showMessageDialog(frame, "<html>" + currentScene.getInfoMessage() + "</html>");
         }
 
     }

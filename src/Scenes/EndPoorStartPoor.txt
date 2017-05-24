@@ -1,0 +1,16 @@
+Ones.jpg
+You have finished your journey and are in the lower class (25k and under). Your family was in this same class growing up, so you have simply just continued the trend. You weren’t given much chance to buck this trend, though. Your salary is more a result of the cards you were dealt than it is a result of any lack of ability on your part.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

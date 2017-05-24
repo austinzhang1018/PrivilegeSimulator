@@ -1,0 +1,16 @@
+Ones.jpg
+You have finished your journey and are in the lower class (25k and under). Your family was very rich growing up, so to see you end up like this is disappointing for them. You could have done so much more with what you were given, but instead you grew complacent and sat on your laurels. You never pushed yourself in the classroom or in the workplace and as a result you are stuck below the poverty line.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

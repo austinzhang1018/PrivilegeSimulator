@@ -1,0 +1,22 @@
+PoliceCar.jpg
+You've been pulled over by a Police Officer. He walks towards your car. You roll down the window and he says, "License and Registration Please". What do you do?
+|Button|
+Reach for registration in glove box
+|Scene|
+BeatenAndArrested
+2
+Black 14
+Hispanic 2
+Female -1
+|SceneEnd|
+|Scene|
+GetTicket
+98
+Black -14
+Female 1
+Hispanic -2
+|SceneEnd|
+|ButtonEnd|
+|Info|
+Black people are 3.5 times more likely to be pulled over than people of other races.
+|InfoEnd|

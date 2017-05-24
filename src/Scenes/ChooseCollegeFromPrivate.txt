@@ -1,0 +1,70 @@
+College.jpg
+Your next choice is the most important so far: college. You have three options you can take. You can choose to not go to college, or you can apply for either community college or a 4 year college/university. 
+|Button|
+University/College
+|Scene|
+AttendingUni
+20
+Rich 100
+UpperMiddle 75
+Middle 65
+LowerMiddle 67
+Poor 52
+White 7
+Black 3
+Hispanic 4
+Asian 10
+MiddleEastern 6
+|SceneEnd|
+|Scene|
+RejectedFromUni
+0
+Rich 0
+UpperMiddle 25
+Middle 34
+LowerMiddle 34
+Poor 48
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Community College
+|Scene|
+AttendingCC
+20
+Rich 95
+UpperMiddle 90
+Middle 75
+LowerMiddle 67
+Poor 45
+White 12
+Black 6
+Hispanic 8
+Asian 15
+MiddleEastern 10
+|SceneEnd|
+|Scene|
+RejectedFromCC
+0
+Rich 5
+UpperMiddle 10
+Middle 25
+LowerMiddle 33
+Poor 55
+|SceneEnd|
+|ButtonEnd|
+|Button|
+No Degree
+|Scene|
+NoDegreeRich
+0
+Rich 1
+|SceneEnd|
+|Scene|
+NoDegree
+0
+UpperMiddle 1
+Middle 1
+LowerMiddle 1
+Poor 1
+|SceneEnd|
+|ButtonEnd|

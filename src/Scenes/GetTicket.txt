@@ -1,0 +1,9 @@
+TrafficStop.jpg
+The police officer hands you a ticket and reminds you to pay attention to your speed in the future.
+|Button|
+Next
+|Scene|
+PromotionTalk
+1
+|SceneEnd|
+|ButtonEnd|

@@ -1,0 +1,16 @@
+Hundreds.jpg
+Congratulations. After all the work and tough decisions you have ended up in a very comfortable position with your job, where you earn a six figure salary. You did not have much growing up. Your family did not live a luxurious lifestyle, but instead they lived one of necessity. You managed to break that cycle through your perseverance and work ethic, and now you have elevated your socioeconomic status through your six-figure salary.
+|Button|
+Epilogue
+|Scene|
+Epilogue
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Keep Going...
+|Scene|
+RandomScenesIntro
+1
+|SceneEnd|
+|ButtonEnd|

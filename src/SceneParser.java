@@ -39,6 +39,7 @@ public class SceneParser {
                         text = reader.readLine();
                         sceneName = text;
                         text = reader.readLine();
+                        System.out.println(text);
                         sceneBaseFrequency = Integer.parseInt(text);
                         text = reader.readLine();
                         while (!text.contains("|SceneEnd|")) {

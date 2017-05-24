@@ -1,0 +1,23 @@
+Promotion.jpg
+You hear rumors of people recieving promotions circulating your workplace. You wonder if you will also recieve a promotion.
+|Button|
+Next
+|Scene|
+Promotion
+50
+Female -8
+Black -15
+Asian -15
+Hispanic -15
+MiddleEastern -15
+|SceneEnd|
+|Scene|
+NoPromotion
+50
+Female 8
+Black 15
+Asian 15
+Hispanic 15
+MiddleEastern 15
+|SceneEnd|
+|ButtonEnd|

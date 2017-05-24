@@ -1,0 +1,18 @@
+NoPromotion.jpg
+You have not received any type of significant promotion or pay raise in your current job. Whether it was a lack of motivation or an unfavorable boss, you just couldn’t seem to gain traction on elevating your career. As a result, your salary and socioeconomic class will remain the same, and there will be no upward economic mobility for you in the future. 
+|Button|
+Next
+|Scene|
+WorkplaceHarassed
+8
+Female 17
+|SceneEnd|
+|Scene|
+WorkplaceNoHarassment
+92
+Female -17
+|SceneEnd|
+|ButtonEnd|
+|Info|
+On average, women are 15% less likely to recieve promotions than men. People of color are also less likely to recieve promotions; people of color are 30% less likely to be promoted.
+|InfoEnd|

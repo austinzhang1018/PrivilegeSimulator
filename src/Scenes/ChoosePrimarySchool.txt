@@ -1,0 +1,30 @@
+PublicVPrivate.jpg
+Your first decision has to do with education. You have to decide whether you want to pursue going to a private/college preparatory school or a public school. The private school will offer you excellent academic opportunities that will set you up well for college, but it will be more challenging and stressful. Going to public school will be easier and more fun socially, but your future academic and career prospects will suffer as a result. To make your decision click on either private or public.
+|Button|
+Private
+|Scene|
+NotEnoughMoneyForPrivateSchool
+0
+Poor 90
+LowerMiddle 85
+Middle 800
+UpperMiddle 750
+Rich 0
+|SceneEnd|
+|Scene|
+EnrolledInPrivateSchool
+0
+Poor 10
+LowerMiddle 15
+Middle 200
+UpperMiddle 250
+Rich 100
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Public
+|Scene|
+CouldHaveGoneToPrivateSchool
+1
+|SceneEnd|
+|ButtonEnd|

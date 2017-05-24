@@ -1,0 +1,56 @@
+Finance.jpg
+Money isn’t happiness. But it is something that has always interested you even more than your peers. You will now get to continue to work with and learn about money as you pursue a career in finance.
+|Button|
+Next
+|Scene|
+EndRichStartMid
+0
+LowerMiddle 35
+Middle 35
+UpperMiddle 35
+|SceneEnd|
+|Scene|
+EndRichStartRich
+0
+Rich 35
+|SceneEnd|
+|Scene|
+EndRichStartPoor
+0
+Poor 35
+|SceneEnd|
+|Scene|
+EndMidStartMid
+0
+LowerMiddle 55
+Middle 55
+UpperMiddle 55
+|SceneEnd|
+|Scene|
+EndMidStartRich
+0
+Rich 55
+|SceneEnd|
+|Scene|
+EndMidStartPoor
+0
+Poor 55
+|SceneEnd|
+|Scene|
+EndPoorStartMid
+0
+LowerMiddle 10
+Middle 10
+UpperMiddle 10
+|SceneEnd|
+|Scene|
+EndPoorStartRich
+0
+Rich 10
+|SceneEnd|
+|Scene|
+EndPoorStartPoor
+0
+Poor 10
+|SceneEnd|
+|ButtonEnd|

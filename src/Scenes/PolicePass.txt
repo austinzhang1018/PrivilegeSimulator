@@ -1,0 +1,9 @@
+PoliceDriveBy.jpg
+You see a police car drive by. Luckly you weren't driving fast enough to warrent being pulled over.
+|Button|
+Next
+|Scene|
+PromotionTalk
+1
+|SceneEnd|
+|ButtonEnd|

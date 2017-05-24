@@ -1,0 +1,42 @@
+Stem.jpg
+You have always enjoyed the sciences. You’ve worked hard and excelled throughout your academic career which has given you this opportunity to pursue this passion through a job in STEM.
+|Button|
+Next
+|Scene|
+EndRichStartMid
+0
+LowerMiddle 65
+Middle 65
+UpperMiddle 65
+|SceneEnd|
+|Scene|
+EndRichStartRich
+0
+Rich 65
+|SceneEnd|
+|Scene|
+EndRichStartPoor
+0
+Poor 65
+|SceneEnd|
+|Scene|
+EndMidStartMid
+0
+LowerMiddle 35
+Middle 35
+UpperMiddle 35
+|SceneEnd|
+|Scene|
+EndMidStartRich
+0
+Rich 35
+|SceneEnd|
+|Scene|
+EndMidStartPoor
+0
+Poor 35
+|SceneEnd|
+|ButtonEnd|
+|Info|
+Women are less likely to go into STEM fields then men.
+|InfoEnd|

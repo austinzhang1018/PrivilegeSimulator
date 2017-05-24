@@ -1,0 +1,35 @@
+Counselling.jpg
+You begin to attend a trauma counsellor. With his/her help you work through the pain and grief that has resulted from your experiance. Although you will hold onto that night for the rest of your life, gradually, you begin to feel slightly better day by day.
+|Button|
+Next
+|Scene|
+STEM
+8
+Asian 4
+Black -1
+Female -1
+|SceneEnd|
+|Scene|
+Humanities
+3
+Asian -1
+Female 2
+White 2
+MiddleEastern 2
+Hispanic 1
+Black 3
+|SceneEnd|
+|Scene|
+Finance
+4
+White 3
+Female -1
+MiddleEastern 1
+Black 1
+Hispanic 1
+|SceneEnd|
+|Scene|
+CollegeBlueCollar
+85
+|SceneEnd|
+|ButtonEnd|

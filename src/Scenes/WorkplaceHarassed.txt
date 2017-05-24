@@ -1,0 +1,19 @@
+Harrassment.jpg
+You have been the subject of sexual harassment in the workplace. It has been going on for months, and it has been a recurring incident. You now have a choice to make. You can stay at your job and be subject to further harassment, or you can quit and seek other employment. Understand that quitting does cause you to run the risk of becoming unemployed for a significant amount of time. 
+|Button|
+Quit your job
+|Scene|
+JobLeave
+1
+|SceneEnd|
+|ButtonEnd|
+|Button|
+Stay with your job
+|Scene|
+JobStay
+1
+|SceneEnd|
+|ButtonEnd|
+|Info|
+Women are over 3x more likely than men to experiance sexual harrassment in the workplace.
+|InfoEnd|

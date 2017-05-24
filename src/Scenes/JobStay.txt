@@ -1,0 +1,15 @@
+JobSad.jpg
+You chose to stay at your job. You did need the money, so the steady salary will make your home life much more comfortable. However, there is a tradeoff, as the constant harassment is wearing on you mentally.
+|Button|
+Next
+|Scene|
+RetireFine
+95
+MiddleEastern -35
+|SceneEnd|
+|Scene|
+RetireTSA
+5
+MiddleEastern 35
+|SceneEnd|
+|ButtonEnd|
